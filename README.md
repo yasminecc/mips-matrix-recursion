@@ -1,4 +1,4 @@
-# MIPS Assembly Lab – Matrix Multiplication & Recursion
+# MIPS Assembly – Matrix Multiplication & Recursion
 
 This project contains two MIPS assembly programs that implement:
 
@@ -45,5 +45,4 @@ These programs were developed using iterative refinement from C to MIPS, and run
 ## Author
 
 **Yasmine Elsisi**  
-Computer Engineering @ NYU Abu Dhabi  
-[GitHub](https://github.com/YasmineElsisi)
+
